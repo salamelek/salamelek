@@ -1,9 +1,9 @@
-Uhm hello?
+# Nice title
 
-yes i'm me and this is a file
+this is me
 
-i dont even know what a .md file is
+you may notice that i am me
 
-this will be fun 
+i am, in fact, me
 
-:D
+if you find any exposed password or private keys, please don't use them :>
